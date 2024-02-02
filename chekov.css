@@ -36,3 +36,19 @@ th,td{
     padding: 10px;
     border: 1px solid black;
 }
+.efimovna:hover{
+    border: 1px dotted green;
+    text-shadow: 2px 2px 2px green;
+}
+.savya:hover{
+    border: 1px dotted blueviolet;
+    text-shadow: 2px 2px 2px blueviolet;
+}
+.nazarovna:hover{
+    border: 1px dotted brown;
+    text-shadow: 2px 2px 2px brown;
+}
+.fedya:hover{
+    border: 1px dotted cadetblue;
+    text-shadow: 2px 2px 2px cadetblue;
+}
