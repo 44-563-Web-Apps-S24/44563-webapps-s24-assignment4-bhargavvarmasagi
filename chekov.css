@@ -52,3 +52,13 @@ th,td{
     border: 1px dotted cadetblue;
     text-shadow: 2px 2px 2px cadetblue;
 }
+nav{
+    padding: 10px;
+    background-color: lightgray;
+}
+nav a{
+    padding-top: 20px 10px;
+}
+img{
+    padding: 15px;
+}
