@@ -26,12 +26,17 @@
 .fedya{
     color: cadetblue;
 }
-table{
+.table-one{
     border: 2px solid black;
     color:brown;
     margin: 10px;
 }
-th,td{
+.table-one th{
+    text-align: center;
+    padding: 12px;
+    border: 1px solid black;
+}
+.table-one td{
     text-align: center;
     padding: 10px;
     border: 1px solid black;
